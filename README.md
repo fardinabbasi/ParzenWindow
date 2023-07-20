@@ -1,5 +1,5 @@
 # ParzenWindow
-
+Performing non-parametric Parzen Window estimation on the '[ted_main.csv](https://github.com/fardinabbasi/ParzenWindow/blob/main/ted_main.csv)' dataset, both **from scratch** and using **built-in** functions.
 ## From Scratch
 
 
