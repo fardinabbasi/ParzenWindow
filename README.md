@@ -1,5 +1,5 @@
 # ParzenWindow
-Performing non-parametric Parzen Window estimation on the '[ted_main.csv](https://github.com/fardinabbasi/ParzenWindow/blob/main/ted_main.csv)' dataset, both **from scratch** and using **built-in** functions.
+Performing **non-parametric Parzen Window estimation** on the '[ted_main.csv](https://github.com/fardinabbasi/ParzenWindow/blob/main/ted_main.csv)' dataset, both **from scratch** and using **built-in** functions.
 The duration column of the dataset is extracted to estimate its **distribution** using **Parzen Window** with **Gaussian kernel**.
 ## From Scratch
 Here is the implementation of the **Parzen Window with Gaussian kernel** from scratch.
